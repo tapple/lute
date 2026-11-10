@@ -1,6 +1,6 @@
 [dependency]
 name = "luau"
-remote = "https://github.com/luau-lang/luau.git"
-branch = "0.745"
-revision = "2a3d8937c19c8fd9f7b72b6ec9068c62760e6588"
+remote = "https://github.com/secondlife/slua.git"
+branch = "lute-build-fixes"
+revision = "dd2f2ffcbea353f92b4607baed36928ecf2cf635"
 patches = []
