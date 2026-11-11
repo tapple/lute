@@ -2,5 +2,5 @@
 name = "luau"
 remote = "https://github.com/secondlife/slua.git"
 branch = "lute-build-fixes"
-revision = "dd2f2ffcbea353f92b4607baed36928ecf2cf635"
+revision = "5ef39ca1be9476519cd17b6c4bdf13635d133c96"
 patches = []
